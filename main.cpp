@@ -23,14 +23,14 @@ int main() {
         cin >> i >> j;
         max = 0;
         if( i > j){
-            for (int k = j; k < i ; ++k) {
+            for (int k = j; k <= i ; ++k) {
                 contador = calcularRepeticiones(k);
                 if (contador > max){
                     max = contador;
                 }
             }
         }else if (i < j){
-            for (int k = i; k < j ; ++k) {
+            for (int k = i; k <= j ; ++k) {
                 contador = calcularRepeticiones(k);
                 if (contador > max){
                     max = contador;
