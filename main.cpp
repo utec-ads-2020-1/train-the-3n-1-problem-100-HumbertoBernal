@@ -3,7 +3,7 @@
 using namespace std;
 
 int calcularRepeticiones(int n){
-    int contador = 1;
+    int contador=0;
     while(n !=1){
         if (n%2 != 0) {
             ++contador;
@@ -22,13 +22,24 @@ int main() {
     while (cin){
         cin >> i >> j;
         max = 0;
-        for (int k = i; k < j ; ++k) {
-            contador = calcularRepeticiones(k);
-            if (contador > max){
-                max = contador;
+        if( i > j){
+            for (int k = j; k < i ; ++k) {
+                contador = calcularRepeticiones(k);
+                if (contador > max){
+                    max = contador;
+                }
             }
+        }else if (i < j){
+            for (int k = i; k < j ; ++k) {
+                contador = calcularRepeticiones(k);
+                if (contador > max){
+                    max = contador;
+                }
+            }
+        }else{
+            max = calcularRepeticiones(i);
         }
-        cout << "\n"<< i <<" "<< j << " "<< max;
+        cout << i <<" "<< j << " "<< max+1 << "\n";
     }
     return 0;
 }

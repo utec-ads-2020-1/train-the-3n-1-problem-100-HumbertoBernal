@@ -11,7 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b1818dd-54a2-4f56-8a86-80ea8568a3cb" name="Default Changelist" comment="" />
+    <list default="true" id="5b1818dd-54a2-4f56-8a86-80ea8568a3cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/3n_1" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/3n_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3n_1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3n_1.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3n_1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3n_1.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +28,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZgWjyOYi5gqP2VzI7BH7gaMK2X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -56,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585261356308</updated>
       <workItem from="1585261358284" duration="1814000" />
-      <workItem from="1585466561711" duration="2677000" />
+      <workItem from="1585466561711" duration="3178000" />
     </task>
     <servers />
   </component>
@@ -64,21 +76,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1585469824062">
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom" timestamp="1585470414533">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1585469824062" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1585469824061">
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1585470414533" />
+    <state width="1398" height="191" key="GridCell.Tab.0.center" timestamp="1585470414532">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1585469824061" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1585469824061">
+    <state width="1398" height="191" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1585470414532" />
+    <state width="1398" height="191" key="GridCell.Tab.0.left" timestamp="1585470414532">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1585469824061" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1585469824062">
+    <state width="1398" height="191" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1585470414532" />
+    <state width="1398" height="191" key="GridCell.Tab.0.right" timestamp="1585470414533">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1585469824062" />
+    <state width="1398" height="191" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1585470414533" />
   </component>
 </project>
